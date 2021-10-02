@@ -6,7 +6,7 @@
 name: Blog KW	
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Blog KW Ku
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -76,6 +76,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
 
 # Exclude these files from your production _site
 exclude:
